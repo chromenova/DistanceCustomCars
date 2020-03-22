@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: c6281da2fe7555a429277d2150653ecb
+timeCreated: 1549844861
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MegaBass
+    100004: MegaBass2
+    100006: MegaBass3
+    400000: //RootNode
+    400002: MegaBass
+    400004: MegaBass2
+    400006: MegaBass3
+    4300000: MegaBass
+    4300002: MegaBass3
+    4300004: MegaBass2
+    7400000: MegaBass|MegaBassMorph
+    7400002: MegaBass3|MegaBassMorph1.001
+    7400004: MegaBass3|MegaBassMorph1.002
+    7400006: MegaBass3|MegaBassMorph1
+    7400008: MegaBass3|MegaBassMorph2
+    7400010: MegaBass3|MegaBassMorph3
+    7400012: MegaBass2|MegaBassMorph1
+    7400014: MegaBass2|MegaBassMorph2
+    7400016: MegaBass2|MegaBassMorph3
+    7400018: MegaBass|MegaBassMorph1
+    7400020: MegaBass|MegaBassMorph2
+    7400022: MegaBass|MegaBassMorph3
+    7400024: MegaBassMorph1.001
+    7400026: MegaBass2|MegaBassMorph1.001
+    7400028: MegaBass|MegaBassMorph1.001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: //RootNode
+    13700002: MegaBass
+    13700004: MegaBass2
+    13700006: MegaBass3
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: MegaBass|MegaBassMorph1
+      takeName: MegaBass|MegaBassMorph1
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: MegaBass
+        weight: 1
+      - path: MegaBass2
+        weight: 1
+      - path: MegaBass3
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
